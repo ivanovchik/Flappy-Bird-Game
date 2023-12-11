@@ -1,2 +1,1 @@
-# Flappy-Bird-Game
-Flappy bird| Game
+The gameplay of Flappy Bird is straightforward. Players control a bird avatar that moves continuously to the right. The goal is to navigate the bird through a series of pipes, which have openings at varying heights. The challenge lies in tapping the screen to make the bird flap its wings, allowing it to ascend momentarily and pass through the gaps in the pipes.
